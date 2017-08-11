@@ -80,7 +80,7 @@ header {
 .tab_item {
   display: none; }
 
-.tab_item::first-child {
+.tab_item:first-child {
   display: block; }
 
 .top_phone .wrapper .tab,
