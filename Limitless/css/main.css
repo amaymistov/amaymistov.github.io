@@ -77,10 +77,10 @@ header {
   margin-top: 50px;
   color: #F03861; }
 
-.tab_item {
+body .tab_item {
   display: none; }
 
-.tab_item:first-child {
+body .tab_item:first-child {
   display: block; }
 
 .top_phone .wrapper .tab,
